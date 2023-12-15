@@ -52,6 +52,10 @@ Officially supported clients that may miss some features
 - [Ruby](http://github.com/nats-io/nats-pure.rb)
 - [Crystal](http://github.com/nats-io/nats.cr)
 
+### Community Clients
+
+TODO
+
 ## Kubernetes
 
 Tools useful when working with NATS in Kubernetes ecosystem.
@@ -63,6 +67,10 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 
 - [Surveyor](http://github.com/nats-io/nats-surveyor) - Simplified NATS observability
 - [Prometheus NATS exporter](https://github.com/nats-io/prometheus-nats-exporter) - Export NATS Server metrics to Prometheus
+
+## Connectors and Integrations
+
+TODO
 
 ## Contribute
 
