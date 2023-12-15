@@ -54,7 +54,11 @@ Officially supported clients that may miss some features
 
 ### Community Clients
 
-TODO
+- [Tcl](https://github.com/Kazmirchuk/nats-tcl)
+- [Crystal](https://github.com/jgaskins/nats) - most up to date Crystal client
+- [PHP](https://github.com/basis-company/nats.php) - with support for Core NATS, JetStream and KV
+- [Dart](https://github.com/chartchuo/dart-nats)
+- [Pascal](https://github.com/biot2/nats.pas)
 
 ## Kubernetes
 
