@@ -18,9 +18,11 @@ The must haves
 
 ## Docs and learning materials
 
-- [Official Docs](https://docs.nats.io)
+- [Official Docs](https://docs.nats.io) - Official NATS documentation page
+- [Synadia Website](https://www.synadia.com) - Official Synadia website
 - [NATS By Example](https://natsbyexample.com) - An evolving collection of runnable, cross-client reference examples for NATS
 - [Synadia Youtube Channel](https://www.youtube.com/@SynadiaCommunications) - Growing list of videos NATS, covering wide variety of topics
+- [NATS.fm](https://www.synadia.com/podcast) - Podcast dedicated to NATS, hosted by David Gee and Byron Ruth
 
 ## Clients
 
