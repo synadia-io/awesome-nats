@@ -54,6 +54,8 @@ Officially supported clients that may miss some features
 
 ### Community Clients
 
+Community driven clients
+
 - [Tcl](https://github.com/Kazmirchuk/nats-tcl)
 - [Crystal](https://github.com/jgaskins/nats) - most up to date Crystal client
 - [PHP](https://github.com/basis-company/nats.php) - with support for Core NATS, JetStream and KV
@@ -78,6 +80,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 - [Kafka](https://github.com/nats-io/nats-kafka) - Kafka bridge
 - [Redis](https://github.com/nats-io/nats-connector-redis) - Redis connector
 - [Dapr](https://docs.dapr.io/reference/components-reference/supported-pubsub/setup-jetstream/) - Dapr KV and JetSteram integration
+- [MongoDB](https://github.com/damianiandrea/mongodb-nats-connector)
 
 ## Contribute
 
