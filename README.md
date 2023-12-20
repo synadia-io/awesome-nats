@@ -76,6 +76,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 
 ## Connectors and Integrations
 
+- [Flink](https://github.com/synadia-io/flink-connector-nats) - Flink Connector
 - [Spark](https://github.com/nats-io/nats-spark-connector) - Spark connector
 - [Kafka](https://github.com/nats-io/nats-kafka) - Kafka bridge
 - [Redis](https://github.com/nats-io/nats-connector-redis) - Redis connector
