@@ -62,6 +62,12 @@ Community driven clients
 - [Dart](https://github.com/chartchuo/dart-nats)
 - [Pascal](https://github.com/biot2/nats.pas)
 
+## Ansible
+
+Anisble rules for provisioning NATS on servers:
+
+- [Ansible Role NATS](https://github.com/snapp-cab/ansible-role-nats)
+
 ## Kubernetes
 
 Tools useful when working with NATS in Kubernetes ecosystem.
