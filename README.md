@@ -15,6 +15,7 @@ The must haves
 
 - [NATS Server](http://github.com/nats-io/nats-server) - The only binary you need to run single server, clusters, super-clusters and leaf nodes
 - [NATS CLI](http://github.com/nats-io/natscli) - CLI for managing, interacting, benchmarking and debugging NATS
+- [Nats-top](https://github.com/nats-io/nats-top) - CLI tool for real-time monitoring of the nats-server
 
 ## Docs and learning materials
 
@@ -79,7 +80,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 
 - [Surveyor](http://github.com/nats-io/nats-surveyor) - Simplified NATS observability
 - [Prometheus NATS exporter](https://github.com/nats-io/prometheus-nats-exporter) - Export NATS Server metrics to Prometheus
-- [NATS dashboard](https://natsdashboard.com/) - GUI for real-time monitoring of nats-server (exposes Core NATS plus JetStream information)
+- [NATS dashboard](https://natsdashboard.com/) - GUI for real-time monitoring of nats-server (exposes the same information you get out of `nats-top` plus JetStream information)
 
 ## Connectors and Integrations
 
