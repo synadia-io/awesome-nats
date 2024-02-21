@@ -79,6 +79,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 
 - [Surveyor](http://github.com/nats-io/nats-surveyor) - Simplified NATS observability
 - [Prometheus NATS exporter](https://github.com/nats-io/prometheus-nats-exporter) - Export NATS Server metrics to Prometheus
+- [NATS dashboard](https://natsdashboard.com/) - GUI for real-time monitoring of nats-server (exposes Core NATS plus JetStream information)
 
 ## Connectors and Integrations
 
@@ -88,6 +89,12 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 - [Redis](https://github.com/nats-io/nats-connector-redis) - Redis connector
 - [Dapr](https://docs.dapr.io/reference/components-reference/supported-pubsub/setup-jetstream/) - Dapr KV and JetSteram integration
 - [MongoDB](https://github.com/damianiandrea/mongodb-nats-connector)
+- [Debezium](https://github.com/ConnectEverything/nats-by-example/tree/main/examples/integrations/debezium) - Debezium to JetStream built-in the Debezium server
+ 
+## Built on top of NATS and JetStream
+
+- [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [Nqlite](https://github.com/voxoco/nqlite) - Lightweight relational database using SQLite as the storage engine and NATS Jetstream for replication and persistence
 
 ## Contribute
 
