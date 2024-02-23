@@ -23,6 +23,7 @@ The must haves
 - [NATS By Example](https://natsbyexample.com) - An evolving collection of runnable, cross-client reference examples for NATS
 - [Synadia Youtube Channel](https://www.youtube.com/@SynadiaCommunications) - Growing list of videos NATS, covering wide variety of topics
 - [NATS.fm](https://www.synadia.com/podcast) - Podcast dedicated to NATS, hosted by David Gee and Byron Ruth
+- [Java NATS examples](https://github.com/nats-io/java-nats-examples/tree/main) - Collection of Java (and Kotlin) examples
 
 ## Clients
 
