@@ -52,6 +52,9 @@ Officially supported clients that may miss some features
 - [Pure Ruby](http://github.com/nats-io/nats-pure.rb)
 - [Ruby](http://github.com/nats-io/nats-pure.rb)
 - [Crystal](http://github.com/nats-io/nats.cr)
+- [Swift](http://github.com/nats-io/nats.swift)
+
+
 
 ### Community Clients
 
