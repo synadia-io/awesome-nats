@@ -40,7 +40,7 @@ List of clients with support for all features of most recent NATS releases.
 - [C](http://github.com/nats-io/nats.c)
 - [.NET.v2](http://github.com/nats-io/nats.net.v2) - A new async & modern .NET client
 - [Deno](http://github.com/nats-io/nats.deno)
-- [Node](http://github.com/nats-io/nats.node)
+- [Node](https://github.com/nats-io/nats.js)
 - [WebSocket](http://github.com/nats-io/nats.ws) - Websocket JavaScript client for the Browser
 
 ### Tier Two Clients
