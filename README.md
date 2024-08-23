@@ -81,7 +81,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 - [Surveyor](http://github.com/nats-io/nats-surveyor) - Simplified NATS observability
 - [Prometheus NATS exporter](https://github.com/nats-io/prometheus-nats-exporter) - Export NATS Server metrics to Prometheus
 - [NATS dashboard](https://natsdashboard.com/) - GUI for real-time monitoring of nats-server (exposes Core NATS plus JetStream information)
-
+- [NATS Alerts](https://samber.github.io/awesome-prometheus-alerts/rules#nats) - basic set of Prometheus alerts for NATS
 ## Connectors and Integrations
 
 - [Flink](https://github.com/synadia-io/flink-connector-nats) - Flink Connector
