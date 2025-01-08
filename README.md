@@ -96,6 +96,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 
 - [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [Nqlite](https://github.com/voxoco/nqlite) - Lightweight relational database using SQLite as the storage engine and NATS Jetstream for replication and persistence
+- [Simple IoT](https://docs.simpleiot.org/) - Add connectivity to your edge device, monitor systems, and control devices -- made possible by NATS.
 
 ## Contribute
 
