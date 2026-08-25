@@ -62,6 +62,7 @@ Community driven clients
 - [PHP](https://github.com/basis-company/nats.php) - with support for Core NATS, JetStream and KV
 - [Dart](https://github.com/chartchuo/dart-nats)
 - [Pascal](https://github.com/biot2/nats.pas)
+- [Scala3](https://github.com/ThatScalaGuy/fs2-nats) - built on Cats Effect 3 and FS2 (Core, JetSteam, KV, Object Store and Micro)
 
 ## Ansible
 
