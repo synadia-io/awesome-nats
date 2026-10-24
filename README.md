@@ -97,6 +97,7 @@ Tools useful when working with NATS in Kubernetes ecosystem.
 - [HA](https://github.com/litesql/ha) - Highly available leaderless SQLite cluster powered by embedded NATS JetStream server
 - [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [Nqlite](https://github.com/voxoco/nqlite) - Lightweight relational database using SQLite as the storage engine and NATS Jetstream for replication and persistence
+- [packtrail](https://github.com/henomis/packtrail) - Durable, event-sourced workflow engine for Go that runs entirely on NATS JetStream (retries, fan-out/join, human-in-the-loop waits, time travel)
 - [Simple IoT](https://docs.simpleiot.org/) - Add connectivity to your edge device, monitor systems, and control devices -- made possible by NATS.
 
 ## Contribute
